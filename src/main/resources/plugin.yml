@@ -1,0 +1,7 @@
+name: RandomTP
+version: '${project.version}'
+main: com.randomtp.RandomTP
+api-version: 1.20
+commands:
+  randomtp:
+  rt:
